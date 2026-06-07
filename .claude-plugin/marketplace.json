@@ -68,7 +68,7 @@
       "name": "bio-research",
       "displayName": "Bio Research",
       "source": "./bio-research",
-      "description": "Connect to preclinical research tools and databases (literature search, genomics analysis, target prioritization) to accelerate early-stage life sciences R&D"
+      "description": "Connect to preclinical research tools and databases (literature search, genomics analysis, target prioritization) to accelerate early-stage life sciences R&D."
     },
     {
       "name": "engineering",
@@ -129,7 +129,7 @@
     {
       "name": "zoom-plugin",
       "source": "./partner-built/zoom-plugin",
-      "description": "Claude plugin for planning, building, and debugging Zoom integrations across REST APIs, SDKs, webhooks, bots, and MCP workflows"
+      "description": "Claude plugin for planning, building, and debugging Zoom integrations across REST APIs, SDKs, webhooks, bots, and MCP workflows."
     },
     {
       "name": "lark-base-deploy",

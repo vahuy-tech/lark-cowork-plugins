@@ -1,6 +1,6 @@
 {
   "name": "zoom-plugin",
-  "description": "Claude plugin for planning, building, and debugging Zoom integrations across REST APIs, SDKs, webhooks, bots, and MCP workflows",
+  "description": "Claude plugin for planning, building, and debugging Zoom integrations across REST APIs, SDKs, webhooks, bots, and MCP workflows.",
   "version": "1.1.0",
   "homepage": "https://developers.zoom.us/",
   "repository": "https://github.com/zoom/zoom-plugin",
