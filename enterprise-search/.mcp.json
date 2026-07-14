@@ -1,13 +1,10 @@
 {
   "mcpServers": {
     "lark": {
-      "command": "lark-cli",
-      "args": [
-        "mcp",
-        "serve"
-      ],
-      "env": {
-        "NO_COLOR": "1"
+      "type": "http",
+      "url": "${LARK_MCP_URL}",
+      "headers": {
+        "Authorization": "Bearer ${LARK_MCP_BEARER_TOKEN}"
       }
     }
   }
