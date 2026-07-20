@@ -1,0 +1,8 @@
+{
+  "name": "giao-viec",
+  "version": "1.0.0",
+  "description": "Giao việc trên Lark — phân tích yêu cầu, chọn người phù hợp, tạo task với context đầy đủ, thông báo bằng interactive card, theo dõi tiến độ task đã giao.",
+  "author": {
+    "name": "Lark Cowork"
+  }
+}
