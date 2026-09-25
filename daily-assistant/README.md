@@ -26,6 +26,7 @@ Plugin này bao trùm toàn bộ luồng công việc hằng ngày, được nh�
 | `weekly-review` | Cái nhìn theo tuần về lịch, công việc và OKR như một câu chuyện liền mạch |
 | `im-digest` | Triage các nhóm IM — phân loại những tin nhắn mới nhất của từng nhóm thành cần action / cần biết / bỏ qua |
 | `inbox-zero` | Quy trình triage mail đầy đủ hướng tới một hộp thư trống |
+| `mail-check` | Review mail công việc 3 ngày gần nhất cho BOD/CEO — lọc noise, đánh giá mail nào cần sếp quan tâm và đề xuất hướng phản hồi/xử lý (kích hoạt bằng "check mail") |
 | `task-prioritizer` | Xếp hạng công việc theo deadline × rủi ro, mức độ chặn việc khác, liên kết OKR, và trọng số người giao việc; nêu bật top 5 của ngày |
 | `overwhelm-triage` | Bộ định tuyến trung gian cho tình huống "tôi quá tải" — một câu hỏi để phân định nỗi đau ở mail/IM/task/họp, rồi điều phối đến đúng kỹ năng |
 | `focus-mode` | Chặn thời gian trên lịch, bật chế độ không làm phiền (DND) trên IM, và thông báo cho team của bạn |

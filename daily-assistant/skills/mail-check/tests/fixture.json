@@ -1,0 +1,32 @@
+{
+  "_comment": "mail-check: review Lark work-mail of the last 3 days, filter noise, flag what the CEO must act on, suggest response direction. Read-only; drafts only.",
+  "skill": "mail-check",
+  "calls": [
+    {
+      "service": "lark-mail",
+      "verb": "triage",
+      "flags": [
+        "--filter",
+        "--max"
+      ]
+    },
+    {
+      "service": "lark-mail",
+      "verb": "messages"
+    },
+    {
+      "service": "lark-mail",
+      "verb": "draft-create",
+      "flags": [
+        "--to",
+        "--subject",
+        "--body"
+      ]
+    }
+  ],
+  "expected_output": [
+    "3 ngày",
+    "Cần CEO",
+    "ưu tiên"
+  ]
+}
